@@ -1,0 +1,149 @@
+{
+    "services":
+    [
+        {
+            "id": 1,
+            "title": "home:services.0.title",
+            "description": "home:services.0.description"
+        },
+        {
+            "id": 2,
+            "title": "home:services.1.title",
+            "description": "home:services.1.description"
+        },
+        {
+            "id": 3,
+            "title": "home:services.2.title",
+            "description": "home:services.2.description"
+        },
+        {
+            "id": 4,
+            "title": "home:services.3.title",
+            "description": "home:services.3.description"
+        },
+        {
+            "id": 5,
+            "title": "home:services.4.title",
+            "description": "home:services.4.description"
+        },
+        {
+            "id": 6,
+            "title": "home:services.5.title",
+            "description": "home:services.5.description"
+        }
+    ],
+    "fats":
+    {
+        "frontend":
+        [
+            {
+                "id": 1,
+                "name": "HTML",
+                "src": "/images/logos/logo-html.png",
+                "alt": "JohnUltimate Html Logo"
+            },
+            {
+                "id": 2,
+                "name": "Sass",
+                "src": "/images/logos/logo-sass.png",
+                "alt": "JohnUltimate sass Logo"
+            },
+            {
+                "id": 3,
+                "name": "TailwindCSS",
+                "src": "/images/logos/logo-tailwindcss.png",
+                "alt": "JohnUltimate TailwindCSS Logo"
+            },
+            {
+                "id": 4,
+                "name": "ReactJS",
+                "src": "/images/logos/logo-react.png",
+                "alt": "JohnUltimate ReactJS Logo"
+            },
+            {
+                "id": 5,
+                "name": "NextJS",
+                "src": "/images/logos/logo-next.png",
+                "alt": "JohnUltimate NextJS Logo"
+            },
+            {
+                "id": 6,
+                "name": "AngularJS",
+                "src": "/images/logos/logo-angular.png",
+                "alt": "JohnUltimate AngularJS Logo"
+            },
+            {
+                "id": 7,
+                "name": "VueJS",
+                "src": "/images/logos/logo-vue.png",
+                "alt": "JohnUltimate VueJS Logo"
+            },
+            {
+                "id": 8,
+                "name": "NuxtJS",
+                "src": "/images/logos/logo-nuxt.png",
+                "alt": "JohnUltimate NuxtJS Logo"
+            }
+        ],
+        "backend":
+        [
+            {
+                "id": 1,
+                "name": "NodeJS",
+                "src": "/images/logos/logo-node.png",
+                "alt": "JohnUltimate NodeJS Logo"
+            },
+            {
+                "id": 2,
+                "name": "DenoJS",
+                "src": "/images/logos/logo-deno.png",
+                "alt": "JohnUltimate DenoJS Logo"
+            },
+            {
+                "id": 3,
+                "name": "ExpressJS",
+                "src": "/images/logos/logo-express.png",
+                "alt": "JohnUltimate ExpressJS Logo"
+            },
+            {
+                "id": 4,
+                "name": "NestJS",
+                "src": "/images/logos/logo-nest.png",
+                "alt": "JohnUltimate NestJS Logo"
+            },
+            {
+                "id": 5,
+                "name": "Laravel",
+                "src": "/images/logos/logo-laravel.png",
+                "alt": "JohnUltimate Laravel Logo"
+            },
+            {
+                "id": 6,
+                "name": "Ruby on rails",
+                "src": "/images/logos/logo-ruby.png",
+                "alt": "JohnUltimate Ruby on rails Logo"
+            }
+        ],
+        "crossPlatforms":
+        [
+            {
+                "id": 1,
+                "name": "ElectronJS",
+                "src": "/images/logos/logo-electron.png",
+                "alt": "JohnUltimate ElectronJS Logo"
+            },
+            {
+                "id": 2,
+                "name": "React Native",
+                "src": "/images/logos/logo-react-native.png",
+                "alt": "JohnUltimate React native Logo"
+            },
+            {
+                "id": 3,
+                "name": "Python",
+                "src": "/images/logos/logo-python.png",
+                "alt": "JohnUltimate Python Logo"
+            }
+        ]
+    }
+}
